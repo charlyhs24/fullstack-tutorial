@@ -1,10 +1,11 @@
-# Apollo tutorial
+# Apollo tutorial updated
 
 This is the fullstack app for the [Apollo tutorial](http://apollographql.com/docs/tutorial/introduction.html). 🚀
 
 ## File structure
 
 The app is split out into two folders:
+
 - `start`: Starting point for the tutorial
 - `final`: Final version
 
